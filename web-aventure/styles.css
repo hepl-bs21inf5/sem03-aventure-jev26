@@ -1,0 +1,22 @@
+body {
+    background-color: #fdf6e3;
+    color: #657b83;
+    font-family: 'Brush Script MT', cursive;
+  }
+  p {
+    font-size: 20px;
+  }
+h1 {
+    color: #268bd2;
+}
+a {
+    color: #dc322f;
+    font-size: 18px;
+    text-decoration: none;
+}
+a:hover {
+    color: #6c71c4;
+  }
+ul {
+    list-style-type: square;
+}
